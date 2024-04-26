@@ -1,0 +1,63 @@
+body {
+    background-color: #252946;
+    color: #000000; 
+  }
+  .navbar {
+    background-color: transparent;
+  }
+  .navbar-brand {
+    color: #fff; 
+    font-weight: bold;
+    font-size: 1.5rem; 
+  }
+  .navbar-nav .nav-link {
+    color: #fff; 
+  }
+  .navbar-nav .nav-link:hover {
+    color: #ccc; 
+  }
+  .text-center {
+    text-align: center;
+  }
+  .form-group {
+    position: relative;
+    margin-bottom: 0;
+  }
+  #searchInput {
+    border-radius: 25px; 
+  }
+  .input-group-append button {
+    border-top-right-radius: 25px; 
+    border-bottom-right-radius: 25px;
+  }
+  #searchButton {
+    border-radius: 25px;
+    background-color: #007bff; 
+    color: #fff; 
+    border: none;
+  }
+  #searchButton:hover {
+    background-color: #0056b3;
+  }
+  #mealResults {
+    margin-top: 20px;
+  }
+  .card {
+    background-color: white; 
+    color: #000000; 
+  }
+  .card-title {
+    color: #252946; 
+  }
+  .btn-primary {
+    background-color: #007bff;
+    border: none;
+  }
+  .btn-primary:hover {
+    background-color: #0056b3; 
+  }
+  footer {
+    background-color: #66788b; 
+    color: #fff; 
+  }
+  
